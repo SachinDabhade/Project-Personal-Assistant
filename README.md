@@ -1,0 +1,2 @@
+# Personal-Assistant-in-python
+Here, I have made a simple assistant that can make my work simple by just doing simple works which I tell him using speech recognition. It can do some important and simple tasks like Google search, playing music, opening sites, opening softwares, speaking news using news API (Application Programming Interface), Wikipedia searching, email sending, etc. This is my first mini project I had done in the learning stage. I will develop it further in future using open source contribution.
