@@ -1,0 +1,45 @@
+start music : command by My name is sachin on 2022-01-20 14:13:16.803070
+today's news : command by My name is sachin on 2022-01-20 14:14:00.944859
+today's news : command by Sachin on 2022-01-20 14:16:13.477461
+open chrome : command by Sachin on 2022-01-20 14:18:05.899280
+what is your name : command by Ashwini on 2022-01-20 14:18:38.993899
+but i think you are kalam : command by Ashwini on 2022-01-20 14:18:46.298421
+sorry : command by Ashwini on 2022-01-20 14:18:56.661174
+good morning : command by Ashwini on 2022-01-20 14:19:00.995256
+hello jarvis : command by Ashwini on 2022-01-20 14:19:12.949874
+goodbye : command by Ashwini on 2022-01-20 14:19:18.744095
+bye : command by Ashwini on 2022-01-20 14:19:23.022456
+davidson : command by Ashwini on 2022-01-20 14:19:30.059678
+is it ok the mic is on or off : command by Ashwini on 2022-01-20 14:19:35.852820
+i want to take the bike : command by Ashwini on 2022-01-20 14:19:41.068111
+i want to teach the mic : command by Ashwini on 2022-01-20 14:19:45.117849
+i want to taste the bike : command by Ashwini on 2022-01-20 14:19:50.216874
+i want to taste the : command by Ashwini on 2022-01-20 14:19:55.648580
+bike : command by Ashwini on 2022-01-20 14:19:59.489489
+you are very intelligent : command by Ashwini on 2022-01-20 14:20:12.293082
+you are very intelligent : command by Ashwini on 2022-01-20 14:20:16.865801
+i think you are better internet : command by Ashwini on 2022-01-20 14:20:20.620523
+internet : command by Ashwini on 2022-01-20 14:20:24.872024
+internet connection : command by Ashwini on 2022-01-20 14:20:27.748961
+you can hear me : command by Ashwini on 2022-01-20 14:20:31.823750
+yes of course you can hear me : command by Ashwini on 2022-01-20 14:20:37.587237
+very good very good : command by Ashwini on 2022-01-20 14:20:41.829890
+you are the best assistant : command by Ashwini on 2022-01-20 14:20:46.542397
+assistant : command by Ashwini on 2022-01-20 14:20:55.077720
+what are you doing : command by Ashwini on 2022-01-20 14:21:01.309764
+what are you doing : command by Ashwini on 2022-01-20 14:21:05.743971
+what is this : command by Ashwini on 2022-01-20 14:21:13.413909
+what is this : command by Ashwini on 2022-01-20 14:21:19.416220
+ok bye : command by Ashwini on 2022-01-20 14:21:22.772627
+javascript : command by Ashwini on 2022-01-20 14:21:31.167312
+jarvis quit : command by Ashwini on 2022-01-20 14:21:35.247994
+what are you doing : command by Sachin on 2022-01-20 15:01:23.523600
+hello : command by Sachin on 2022-01-20 15:01:28.569863
+hello : command by Sachin on 2022-01-20 15:01:32.837004
+hello : command by Sachin on 2022-01-20 15:01:38.278689
+hello : command by Sachin on 2022-01-20 15:01:43.271468
+hello : command by Sachin on 2022-01-20 15:01:48.520341
+hello : command by Sachin on 2022-01-20 15:01:53.337857
+hello : command by Sachin on 2022-01-20 15:01:57.549271
+exit : command by Sachin on 2022-01-20 15:02:02.550365
+quit : command by Sachin on 2022-01-20 15:02:10.127971
